@@ -6,7 +6,7 @@
 
 <p><center><img src="/images/pond.jpg" height="300"> </center></p>
 
-<p style="text-align:center;font-size:110%">
+<p style="text-align:center;font-size:130%">
 
 It's ya boiiiii 
 <br><br>
