@@ -6,4 +6,4 @@ a website for Kurt Miller Wallace
 
 #go into assets/css/style.scss to change the background image
 
-#don't touch config.yml
+#go into config.yml to change the background text
