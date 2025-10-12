@@ -1,7 +1,3 @@
-layout: page
-title: "Home"
-permalink:
-
 <body>
 		
 <div class="container">
