@@ -1,0 +1,18 @@
+---
+---
+$section-headings-color: #4682B4;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: #ffff;
+  background-color: #c7d6d9;
+  background-image: url("/images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
