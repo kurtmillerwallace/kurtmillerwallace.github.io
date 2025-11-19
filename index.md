@@ -25,8 +25,21 @@ Favorite Films watched in 2024
 
 <br><br>
 Amherst, MA, Summer '25
+<p><center><img src="/images/Amherst1.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst2.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst3.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst4.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst5.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst6.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst7.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst8.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst9.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst10.jpg" height="300"> </center></p>
+<p><center><img src="/images/Amherst11.jpg" height="300"> </center></p>
 
 <br><br>
+<p style="text-align:center;font-size:130%">
+	
 gib mir
 <br><br>
 
