@@ -62,14 +62,5 @@ NYC, Summer '25
 To contact, please email millerkurt92@gmail.com
 <br><br>
 
-do things in bold like <b>this</b>
-<br>
-do things in italics like <i>this</i>
-<br>
-
-<a href="https://www.flickr.com/photos/202676605@N05/">
-linky linky bo binky</a>
-
-<br><br>
 
 </p>
