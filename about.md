@@ -8,6 +8,7 @@
 
 <p style="text-align:center;font-size:110%">
 
-Blurb about me weewooweewooo
+Scientist, photographer, and amateur filmmaker based in Amherst, Massachusetts.<br/>
+Major film enthusiast and for all things physical.
 
 </p>
