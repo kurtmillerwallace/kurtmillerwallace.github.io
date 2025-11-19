@@ -41,7 +41,7 @@ Amherst, MA, Summer '25
 Underwater in Film
 	
 <br>
-<iframe width="350" height="315" src="https://youtu.be/ns_Sh2wC8iA?si=jU6fgIaKqaaKHRB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/ns_Sh2wC8iA?si=JK0onzFo4nvDkViM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 NYC, Summer '25
