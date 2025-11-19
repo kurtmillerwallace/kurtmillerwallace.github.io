@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<h1>Title larger thing here</h1>
+<h1>Things I've Done</h1>
 
 <p><center><img src="/images/pond.jpg" height="300"> </center></p>
 
