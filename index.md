@@ -3,10 +3,11 @@
 <div class="container">
 <div class="blurb">
 <h1>Things I've Done</h1>
-
-<p><center><img src="/images/pond.jpg" height="300"> </center></p>
-
+	
 <p style="text-align:center;font-size:130%">
+	
+Scotland, Summer '25
+<p><center><img src="/images/pond.jpg" height="300"> </center></p>
 
 It's ya boiiiii poop
 <br><br>
