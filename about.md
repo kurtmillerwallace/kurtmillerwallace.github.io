@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<h1>About</h1>
+<h1><center>About</center></h1>
 
 <p><center><img src="/images/me.jpg" height="300"> </center></p>
 
