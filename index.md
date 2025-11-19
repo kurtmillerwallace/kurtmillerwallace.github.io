@@ -8,6 +8,13 @@
 	
 Scotland, Summer '25
 <p><center><img src="/images/pond.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland2.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland1.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland3.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland4.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland5.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland6.jpg" height="300"> </center></p>
+<p><center><img src="/images/scotland7.jpg" height="300"> </center></p>
 
 It's ya boiiiii poop
 <br><br>
