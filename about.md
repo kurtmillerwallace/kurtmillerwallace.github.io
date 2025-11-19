@@ -22,4 +22,6 @@ YouTube</a>
 <br>
 <a href="https://letterboxd.com/PaulBlartWimCop/">
 Letterboxd</a>
+<br><br>
+millerkurt92@gmail.com
 </p>
