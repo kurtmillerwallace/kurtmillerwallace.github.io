@@ -11,7 +11,7 @@
 Scientist, photographer, and amateur filmmaker based in Amherst, Massachusetts.<br/>
 Major film enthusiast and for all things physical.
 <br><br>
-<a href=""></a>
+<a href="https://youtu.be/AqFjk90754U"></a>
 Musings on Generative AI
 <br><br>
 <a href="https://www.flickr.com/photos/202676605@N05/">
