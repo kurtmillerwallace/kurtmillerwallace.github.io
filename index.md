@@ -2,7 +2,7 @@
 		
 <div class="container">
 <div class="blurb">
-<h1>Things I've Done</h1>
+<h1><center>Things I've Done</center></h1>
 	
 <p style="text-align:center;font-size:130%">
 	
@@ -57,7 +57,9 @@ NYC, Summer '25
 
 <br><br>
 
-gib mir
+<p style="text-align:center;font-size:130%">
+	
+To contact, please email millerkurt92@gmail.com
 <br><br>
 
 do things in bold like <b>this</b>
