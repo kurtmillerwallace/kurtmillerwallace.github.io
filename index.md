@@ -15,10 +15,14 @@ Scotland, Summer '25
 <p><center><img src="/images/scotland5.jpg" height="300"> </center></p>
 <p><center><img src="/images/scotland6.jpg" height="300"> </center></p>
 <p><center><img src="/images/scotland7.jpg" height="300"> </center></p>
+
 <br><br>
-<p>Favorite Films watched in 2024
-<br>
+<p style="text-align:center;font-size:130%">
+Favorite Films watched in 2024
+	
+<br><br>
 <iframe width="350" height="315" src="https://www.youtube.com/embed/hRxeLZsrObc?si=UhUzkrYpopYrLMqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br>
 Amherst, MA, Summer '25
 
