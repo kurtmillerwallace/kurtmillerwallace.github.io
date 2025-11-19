@@ -38,20 +38,22 @@ Amherst, MA, Summer '25
 <p><center><img src="/images/Amherst11.jpg" height="300"> </center></p>
 
 <p style="text-align:center;font-size:130%">
+Underwater in Film
+	
+<br>
+<iframe width="350" height="315" src="https://youtu.be/ns_Sh2wC8iA?si=jU6fgIaKqaaKHRB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 NYC, Summer '25
-<p><center><img src="/images/Amherst1.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst2.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst3.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst4.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst5.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst6.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst7.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst8.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst9.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst10.jpg" height="300"> </center></p>
-<p><center><img src="/images/Amherst11.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC1.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC2.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC3.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC4.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC5.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC6.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC7.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC8.jpg" height="300"> </center></p>
+<p><center><img src="/images/NYC9.jpg" height="300"> </center></p>
 
 <br><br>
 
