@@ -59,7 +59,7 @@ NYC, Summer '25
 The Back half, a Small Home Project
 	
 <br>
-<iframe width="350" height="315" src="https://youtu.be/rA8Wiv2y20Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="315" src="https://www.youtube.com/embed/rA8Wiv2y20Q?si=C6pKEuTnsP5FrTwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 NYC, Fall '25
