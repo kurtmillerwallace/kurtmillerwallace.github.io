@@ -55,7 +55,11 @@ NYC, Summer '25
 <p><center><img src="/images/NYC8.jpg" height="300"> </center></p>
 <p><center><img src="/images/NYC9.jpg" height="300"> </center></p>
 
-
+<p style="text-align:center;font-size:130%">
+The Back half, a Small Home Project
+	
+<br>
+<iframe width="350" height="315" src="[https://youtu.be/rA8Wiv2y20Q](https://youtu.be/rA8Wiv2y20Q)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 NYC, Fall '25
